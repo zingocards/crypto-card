@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://lovable.dev/__l5e/assets-v1/e3d247a8-8924-4079-8518-5aafd03c4087/zingo-social-logo.png" alt="ZingoCards" width="220" />
+<img src="https://zingocards.com/__l5e/assets-v1/e3d247a8-8924-4079-8518-5aafd03c4087/zingo-social-logo.png" alt="ZingoCards" width="220" />
 
 # ZingoCards
 
@@ -12,7 +12,7 @@
 
 <br />
 
-<img src="https://lovable.dev/__l5e/assets-v1/c9af5a97-238c-488c-9ed9-6df0e7b39a88/zingo-youtube-thumbnail.png" alt="ZingoCards preview" width="780" />
+<img src="https://zingocards.com/__l5e/assets-v1/c9af5a97-238c-488c-9ed9-6df0e7b39a88/zingo-youtube-thumbnail.png" alt="ZingoCards preview" width="780" />
 
 </div>
 
@@ -30,7 +30,7 @@
 <br />
 
 <div align="center">
-  <img src="https://lovable.dev/__l5e/assets-v1/c9af5a97-238c-488c-9ed9-6df0e7b39a88/zingo-youtube-thumbnail.png" alt="ZingoCards card preview" width="640" />
+  <img src="https://zingocards.com/__l5e/assets-v1/c9af5a97-238c-488c-9ed9-6df0e7b39a88/zingo-youtube-thumbnail.png" alt="ZingoCards card preview" width="640" />
 </div>
 
 ---
